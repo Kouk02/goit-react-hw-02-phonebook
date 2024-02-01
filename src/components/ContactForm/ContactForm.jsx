@@ -6,7 +6,7 @@ import {
   ContactLabel,
   ContactInput,
   AddContactButton,
-} from '../ComponentsStyled/ContactForm.styled';
+} from './ContactForm.styled';
 
 export default class ContactForm extends Component {
   state = {

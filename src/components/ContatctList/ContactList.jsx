@@ -6,7 +6,7 @@ import {
   ContactSpan,
   ContactLink,
   ContactDeleteBtn,
-} from '../ComponentsStyled/ContactList.styled';
+} from './ContactList.styled';
 
 const ContactList = ({ contacts, handleDeleteContact }) => {
   return (

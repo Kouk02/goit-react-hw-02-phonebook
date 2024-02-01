@@ -1,4 +1,4 @@
-import { FilterInput } from '../ComponentsStyled/Filter.styled';
+import { FilterInput } from './Filter.styled';
 
 function Filter({ filter, onChange }) {
   return (
